@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_rating" label="Rating" language="en" table="x_427293_demo_app_movie_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_rating</element>
+            <help/>
+            <hint/>
+            <label>Rating</label>
+            <language>en</language>
+            <name>x_427293_demo_app_movie_table</name>
+            <plural>Ratings</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 13:02:26</sys_created_on>
+            <sys_id>ecb4d968db220010960e4870399619ed</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Rating</sys_name>
+            <sys_package display_value="My Custom App" source="x_427293_demo_app">753319a4db220010960e4870399619d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">753319a4db220010960e4870399619d6</sys_scope>
+            <sys_update_name>sys_documentation_x_427293_demo_app_movie_table_u_rating_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 13:02:26</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

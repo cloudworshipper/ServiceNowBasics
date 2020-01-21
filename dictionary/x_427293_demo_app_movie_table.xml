@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Movie table" max_length="40" name="x_427293_demo_app_movie_table" type="collection">
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Movie name" max_length="100" name="u_movie_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Rating" max_length="40" name="u_rating" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1-Star" value="1"/>
+                <element inactive_on_update="false" label="2-Star" value="2"/>
+                <element inactive_on_update="false" label="3-Star" value="3"/>
+                <element inactive_on_update="false" label="4-Star" value="4"/>
+                <element inactive_on_update="false" label="5-Star" value="5"/>
+            </choice>
+        </element>
+    </element>
+</database>

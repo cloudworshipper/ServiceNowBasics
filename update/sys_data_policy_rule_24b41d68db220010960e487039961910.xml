@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>u_movie_name</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-01-21 13:02:26</sys_created_on>
+        <sys_data_policy display_value="Sets the Movie name field to mandatory">24b41d68db220010960e48703996190e</sys_data_policy>
+        <sys_id>24b41d68db220010960e487039961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_movie_name</sys_name>
+        <sys_package display_value="My Custom App" source="x_427293_demo_app">753319a4db220010960e4870399619d6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="My Custom App">753319a4db220010960e4870399619d6</sys_scope>
+        <sys_update_name>sys_data_policy_rule_24b41d68db220010960e487039961910</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-01-21 13:02:26</sys_updated_on>
+        <table>x_427293_demo_app_movie_table</table>
+    </sys_data_policy_rule>
+</record_update>

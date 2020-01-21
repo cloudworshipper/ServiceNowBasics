@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Movie table" language="en" table="x_427293_demo_app_movie_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Movie table</label>
+            <language>en</language>
+            <name>x_427293_demo_app_movie_table</name>
+            <plural>Movie tables</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-01-21 13:02:25</sys_created_on>
+            <sys_id>9cb4d968db220010960e4870399619cf</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_name>Movie table</sys_name>
+            <sys_package display_value="My Custom App" source="x_427293_demo_app">753319a4db220010960e4870399619d6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="My Custom App">753319a4db220010960e4870399619d6</sys_scope>
+            <sys_update_name>sys_documentation_x_427293_demo_app_movie_table__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-01-21 13:29:48</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
